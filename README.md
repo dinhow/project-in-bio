@@ -61,7 +61,7 @@ Siga os passos abaixo para rodar o projeto em seu ambiente local.
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/project-in-bio.git
+   git clone https://github.com/dinhow/project-in-bio.git
    ```
 
 2. **Navegue até o diretório do projeto:**
@@ -104,9 +104,3 @@ Contribuições são o que tornam a comunidade open source um lugar incrível pa
 ## 📄 Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
----
-
-<p align="center">
-  Feito com ❤️ por você!
-</p>
